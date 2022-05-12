@@ -3,7 +3,7 @@
 
 ## Overview
 
-Toys are rarely used for the entire duration of their lifespan. This contributes to global waste issues and creates unnecessary financial hardship on consumers. Toy Trader aims to combat these issues by providing a platform that connects individuals who want to trade their no-longer-used toys to others and receive new (to the individual) toys in return.
+Toys are a necessity for children, but children usually get bored with their toys very quickly. They often need different toys to keep them fresh. And those toys that get tired of them in large numbers can cause scrap problems and unnecessary economical to consumers Difficulties. Toy Trader aims to solve these problems by providing a platform that connects individuals who wish to trade toys they no longer use with others and receive new (to the individual) toys in return.
 
 ## Features
 
@@ -19,6 +19,22 @@ Toys are rarely used for the entire duration of their lifespan. This contributes
 -  SDK - Flutter Multiplatform Framework
 -  Language - Dart
 -  Backend - Google Firebase
+
+## Prototype Images
+<img src="https://github.com/JiahaoSac/ToyTraderApp-master/blob/master/readmeImages/prototype01.png" width="250"> 
+<img src="https://github.com/JiahaoSac/ToyTraderApp-master/blob/master/readmeImages/prototype02.png" width="250">
+<img src="https://github.com/JiahaoSac/ToyTraderApp-master/blob/master/readmeImages/prototype03.png" width="250">
+<img src="https://github.com/JiahaoSac/ToyTraderApp-master/blob/master/readmeImages/prototype04.png" width="250">
+<img src="https://github.com/JiahaoSac/ToyTraderApp-master/blob/master/readmeImages/prototype05.png" width="250">
+
+## Testing
+...
+
+## Deployment
+...
+
+## Developer
+...
 
 ## Credits
 
