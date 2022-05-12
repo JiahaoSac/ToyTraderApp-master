@@ -1,5 +1,5 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 import 'Screens.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -24,6 +24,15 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       // backgroundColor: const Color(0xffC4DFCB),
       appBar: AppBar(
+        actions: <Widget>[
+          FlatButton.icon(
+              onPressed: () {
+              },
+              icon: Icon(Icons.person, color: Colors.white,),
+              label: Text('Logout', style: TextStyle(color: Colors.white),),
+
+          )
+        ],
         title: const Text(
           "Toy Trader",
           style: TextStyle(
@@ -31,6 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
             fontSize: 25,
             fontWeight: FontWeight.w600,
           ),
+
         ),
         // centerTitle: true,
         // backgroundColor: Colors.white,

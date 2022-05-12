@@ -38,9 +38,7 @@ class RegistrationScreen extends StatelessWidget{
               ),
               const Padding(
                 padding: EdgeInsets.all(5),
-
                 child: SizedBox(
-
                   child: TextField(
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
@@ -93,7 +91,7 @@ class RegistrationScreen extends StatelessWidget{
               RaisedButton(
                   child: const Text('Sign Up'),
                   onPressed: ()  {
-                    Navigator.push(context, MaterialPageRoute(builder: (context) => const QuestionnaireScreen()));
+                    Navigator.push(context, MaterialPageRoute(builder: (context) => QuestionnaireScreen()));
                   }),
             ],
           ),
