@@ -36,6 +36,9 @@ Toys are a necessity for children, but children usually get bored with their toy
 ## Developer
 ...
 
+## Timeline
+<img src="https://github.com/JiahaoSac/ToyTraderApp-master/blob/master/readmeImages/TimeLine.png" width="500">
+
 ## Credits
 
 Toy Trader app is being created by students as a Senior Project at California State University - Sacramento. 
